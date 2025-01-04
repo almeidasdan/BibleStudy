@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FKBEcqxkP69222k8oGCtbEabwvRDxEf/H92Eu/6yIww=",
+  "Source": "BibleStudy.Api",
+  "BasePath": "_content/BibleStudy.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

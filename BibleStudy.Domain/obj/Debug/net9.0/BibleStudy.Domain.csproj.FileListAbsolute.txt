@@ -1,0 +1,11 @@
+E:\Projects\BibleStudy\BibleStudy.Domain\bin\Debug\net9.0\BibleStudy.Domain.deps.json
+E:\Projects\BibleStudy\BibleStudy.Domain\bin\Debug\net9.0\BibleStudy.Domain.dll
+E:\Projects\BibleStudy\BibleStudy.Domain\bin\Debug\net9.0\BibleStudy.Domain.pdb
+E:\Projects\BibleStudy\BibleStudy.Domain\obj\Debug\net9.0\BibleStudy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BibleStudy\BibleStudy.Domain\obj\Debug\net9.0\BibleStudy.Domain.AssemblyInfoInputs.cache
+E:\Projects\BibleStudy\BibleStudy.Domain\obj\Debug\net9.0\BibleStudy.Domain.AssemblyInfo.cs
+E:\Projects\BibleStudy\BibleStudy.Domain\obj\Debug\net9.0\BibleStudy.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\BibleStudy\BibleStudy.Domain\obj\Debug\net9.0\BibleStudy.Domain.dll
+E:\Projects\BibleStudy\BibleStudy.Domain\obj\Debug\net9.0\refint\BibleStudy.Domain.dll
+E:\Projects\BibleStudy\BibleStudy.Domain\obj\Debug\net9.0\BibleStudy.Domain.pdb
+E:\Projects\BibleStudy\BibleStudy.Domain\obj\Debug\net9.0\ref\BibleStudy.Domain.dll

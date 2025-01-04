@@ -1,0 +1,15 @@
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\bin\Debug\net9.0\BibleStudy.Infrastructure.deps.json
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\bin\Debug\net9.0\BibleStudy.Infrastructure.dll
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\bin\Debug\net9.0\BibleStudy.Infrastructure.pdb
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\bin\Debug\net9.0\BibleStudy.Domain.dll
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\bin\Debug\net9.0\BibleStudy.Domain.pdb
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\obj\Debug\net9.0\BibleStudy.Infrastructure.csproj.AssemblyReference.cache
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\obj\Debug\net9.0\BibleStudy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\obj\Debug\net9.0\BibleStudy.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\obj\Debug\net9.0\BibleStudy.Infrastructure.AssemblyInfo.cs
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\obj\Debug\net9.0\BibleStudy.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\obj\Debug\net9.0\BibleStu.8BB6A2DF.Up2Date
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\obj\Debug\net9.0\BibleStudy.Infrastructure.dll
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\obj\Debug\net9.0\refint\BibleStudy.Infrastructure.dll
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\obj\Debug\net9.0\BibleStudy.Infrastructure.pdb
+E:\Projects\BibleStudy\BibleStudy.Infrastructure\obj\Debug\net9.0\ref\BibleStudy.Infrastructure.dll

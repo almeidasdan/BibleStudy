@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BibleStudy.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BibleStudy.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BibleStudy.Infrastructure.dll": {}
+        }
+      },
+      "BibleStudy.Domain/1.0.0": {
+        "runtime": {
+          "BibleStudy.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibleStudy.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibleStudy.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\Projects\BibleStudy\BibleStudy.Application\bin\Debug\net9.0\BibleStudy.Application.deps.json
+E:\Projects\BibleStudy\BibleStudy.Application\bin\Debug\net9.0\BibleStudy.Application.dll
+E:\Projects\BibleStudy\BibleStudy.Application\bin\Debug\net9.0\BibleStudy.Application.pdb
+E:\Projects\BibleStudy\BibleStudy.Application\bin\Debug\net9.0\BibleStudy.Domain.dll
+E:\Projects\BibleStudy\BibleStudy.Application\bin\Debug\net9.0\BibleStudy.Domain.pdb
+E:\Projects\BibleStudy\BibleStudy.Application\obj\Debug\net9.0\BibleStudy.Application.csproj.AssemblyReference.cache
+E:\Projects\BibleStudy\BibleStudy.Application\obj\Debug\net9.0\BibleStudy.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BibleStudy\BibleStudy.Application\obj\Debug\net9.0\BibleStudy.Application.AssemblyInfoInputs.cache
+E:\Projects\BibleStudy\BibleStudy.Application\obj\Debug\net9.0\BibleStudy.Application.AssemblyInfo.cs
+E:\Projects\BibleStudy\BibleStudy.Application\obj\Debug\net9.0\BibleStudy.Application.csproj.CoreCompileInputs.cache
+E:\Projects\BibleStudy\BibleStudy.Application\obj\Debug\net9.0\BibleStu.37675311.Up2Date
+E:\Projects\BibleStudy\BibleStudy.Application\obj\Debug\net9.0\BibleStudy.Application.dll
+E:\Projects\BibleStudy\BibleStudy.Application\obj\Debug\net9.0\refint\BibleStudy.Application.dll
+E:\Projects\BibleStudy\BibleStudy.Application\obj\Debug\net9.0\BibleStudy.Application.pdb
+E:\Projects\BibleStudy\BibleStudy.Application\obj\Debug\net9.0\ref\BibleStudy.Application.dll
